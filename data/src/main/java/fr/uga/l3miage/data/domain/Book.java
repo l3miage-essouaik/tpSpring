@@ -78,6 +78,6 @@ public class Book {
 
     public enum Language {
         FRENCH,
-        ENGLISH
+        ENGLISH;
     }
 }
